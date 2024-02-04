@@ -9,6 +9,8 @@ source file of klubfrc.github.io
 sphinx是基于python的静态网页生成工具。在构建sphinx时，我们采用的python版本是3.11.5，并在python的虚拟环境下搭建。sphinx及扩展插件参考requirement.txt文件。
 ## 搭建过程
 **推荐使用python的虚拟环境用于开发环境搭建**
-1. 新建一个用于放置开发环境的文件夹。
+1. 新建一个用于放置开发环境的文件夹。如
+![image](https://github.com/kclubfrc/kclubfrc_src/assets/158794672/4748c914-3448-4071-b65c-6ef8a480f018)
+
 3. 
 4. 

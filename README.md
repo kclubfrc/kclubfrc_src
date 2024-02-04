@@ -2,8 +2,8 @@
 source file of klubfrc.github.io
 网站kclubfrc.github.io的网页源文件。最终网站则是通过sphinx工具生成的html静态网页。
 # 搭建自己的站点？build your own site?
-计划搭建自己的站点？参考![搭建自己的站点](https://docs.frc-9597.com/)
-当然您也可以通过阅读![本站点是如何搭建的](https://docs.frc-9597.com)了解我们是如何一步一步搭建起我们站点的。
+计划搭建自己的站点？参考[搭建自己的站点](https://docs.frc-9597.com/)  
+当然您也可以通过阅读[本站点是如何搭建的](https://docs.frc-9597.com)了解我们是如何一步一步搭建起我们站点的。
 
 # 以下位历史内容，相关站点的相关文档建立后将会删除
 # How we

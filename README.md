@@ -1,6 +1,12 @@
 # kclubfrc_src
 source file of klubfrc.github.io
-# 如何使用本仓库 How to Use this Repo
+网站kclubfrc.github.io的网页源文件。最终网站则是通过sphinx工具生成的html静态网页。
+# 搭建自己的站点？build your own site?
+计划搭建自己的站点？参考![搭建自己的站点](https://docs.frc-9597.com/)
+当然您也可以通过阅读![本站点是如何搭建的](https://docs.frc-9597.com)了解我们是如何一步一步搭建起我们站点的。
+
+# 以下位历史内容，相关站点的相关文档建立后将会删除
+# How we
 本仓库只包含网页相关的文件，并说明如何在本地搭建使用环境。具体如何使用参见相关技术说明文档。
 # 环境搭建 Building the Environment
 * **注意**这里说的环境指的是处理网页对应的文件的源文件的处理环境。本站采用sphinx构建
